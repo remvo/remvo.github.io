@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://zsttio.github.io/competition/robocup2017/</loc>
+      <lastmod>2017-07-27T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://zsttio.github.io/exhibition/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -23,16 +32,7 @@
     
     <url>
     
-      <loc>https://zsttio.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://zsttio.github.io/project/deep-learning/</loc>
+      <loc>https://zsttio.github.io/competition/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,44 +41,8 @@
     
     <url>
     
-      <loc>https://zsttio.github.io/project/example-external-project/</loc>
+      <loc>https://zsttio.github.io/competition/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://zsttio.github.io/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://zsttio.github.io/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://zsttio.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://zsttio.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00+09:00</lastmod>
     </url>
     
   
@@ -104,8 +68,8 @@
     
     <url>
     
-      <loc>https://zsttio.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+09:00</lastmod>
+      <loc>https://zsttio.github.io/exhibition/time-to-go-backwards/</loc>
+      <lastmod>2013-11-23T00:00:00+09:00</lastmod>
     </url>
     
   
@@ -142,8 +106,10 @@
     
     <url>
     
-      <loc>https://zsttio.github.io/tags/academic/</loc>
-      <lastmod>2017-09-03T00:00:00+09:00</lastmod>
+      <xhtml:link rel="alternate" href="https://zsttio.github.io/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://zsttio.github.io/ko/categories/" hreflang="ko"/>
+    
+      <loc>https://zsttio.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -152,10 +118,8 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://zsttio.github.io/categories/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://zsttio.github.io/ko/categories/" hreflang="ko"/>
-    
-      <loc>https://zsttio.github.io/categories/</loc>
+      <loc>https://zsttio.github.io/competition/</loc>
+      <lastmod>2017-07-27T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -184,36 +148,6 @@
     
     <url>
     
-      <loc>https://zsttio.github.io/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://zsttio.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://zsttio.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://zsttio.github.io/publication_types/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://zsttio.github.io/ko/publication_types/" hreflang="ko"/>
     
@@ -227,11 +161,31 @@
     
     <url>
     
+      <loc>https://zsttio.github.io/tags/robocup/</loc>
+      <lastmod>2017-07-27T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://zsttio.github.io/tags/robot/</loc>
+      <lastmod>2017-07-27T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://zsttio.github.io/tags/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://zsttio.github.io/ko/tags/" hreflang="ko"/>
     
       <loc>https://zsttio.github.io/tags/</loc>
-      <lastmod>2017-09-03T00:00:00+09:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
